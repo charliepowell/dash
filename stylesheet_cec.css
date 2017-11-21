@@ -29,3 +29,8 @@ body {
 ._dash-undo-redo {
   display: none;
 }
+
+._dash-loading-callback {
+  color: #0F1114;
+  background-color: #0F1114;
+}
